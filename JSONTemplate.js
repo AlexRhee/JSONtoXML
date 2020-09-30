@@ -46,7 +46,6 @@ let pageJSON =
                                 "BackgroundColorString": "#00FFFFFF",
                                 "ConnectionString": null,
                                 "Container": "0",
-                                //Container GUID
                                 "ContainerId": "00000000-0000-0000-0000-000000000000",
                                 "ContainerLayoutTopOffset": "0",
                                 "ErrorMessage": null,
@@ -57,8 +56,8 @@ let pageJSON =
                                 "ExternalQuery": null,
                                 "FieldMappings": null,
                                 "FieldToColumnMappingList": null,
-                                //Field Type
                                 "QueryColumnOperatorMappingList": null,
+                                //Field Type
                                 "FieldType": "Container",
                                 "ForeColor": "0",
                                 "ForegroundColorString": "#FF000000",
@@ -90,7 +89,9 @@ let pageJSON =
                                 "FormVersion": "FormVersion4",
                                 "AccessibilityLabel": null,
                                 "Index": "0",
+                                //Width
                                 "Width": "1100",
+                                //Height
                                 "Height": "140",
                                 "FieldList": null,
                                 "FieldIdList": null,
@@ -137,7 +138,6 @@ let pageJSON =
                                 "Section508Compliant": "false",
                                 "SectionID": null,
                                 "SectionIndex": "0",
-                                //Tab Order
                                 "TabOrder": "0",
                                 "UseColor": "false",
                                 "ValidationErrorMessage": null,
@@ -244,9 +244,11 @@ let pageJSON =
                                 "FieldType": "Rectangle",
                                 "ForeColor": 0,
                                 "ForegroundColorString": "#FF000000",
+                                //GUID
                                 "ID": "bb319d74-087f-f03e-3d29-2328ba34d20b",
                                 "IsRetired": false,
                                 "LayoutLeft": 10,
+                                //Layout Top
                                 "LayoutTop": 90,
                                 "Name": "Rectangle17",
                                 "PageId": "63751eca-6179-06ff-68bb-296b959bb08c",
@@ -301,7 +303,6 @@ let pageJSON =
                                 //GUID
                                 "ID": "a9cea8c0-86f8-2942-493a-d4e5e14ce15c",
                                 "IsRetired": "false",
-                                //Layout Left
                                 "LayoutLeft": "30",
                                 //Layout Top
                                 "LayoutTop": "90",
@@ -690,7 +691,6 @@ let pageJSON =
                                 //Field GUID
                                 "ID": "bb319d74-087f-f03e-3d29-2328ba34d20b",
                                 "IsRetired": false,
-                                //Layout Left
                                 "LayoutLeft": 10,
                                 //Layout Top
                                 "LayoutTop": 170,
@@ -849,13 +849,14 @@ let pageJSON =
                                 "EnableQListener": "false",
                                 //Font Size
                                 "FontSize": "8",
+                                //Text wrap
                                 "LabelWrap": "false",
                                 //Label Text
                                 "Text": "Statute 1A",
                                 //Width
                                 "Width": "92"
                             },
-                            //Citation Description Label
+                            //Citation Description Label ** Key Field
                             //xsi:type="FieldLabel"
                             "BaseFieldLabel3": {
                                 "BackgroundColor": "0",
@@ -914,7 +915,8 @@ let pageJSON =
                                 "EnableQListener": "false",
                                 //Font Size
                                 "FontSize": "8",
-                                "LabelWrap": "false",
+                                //Text wrap - true for Citation Description
+                                "LabelWrap": "true",
                                 //Label Text
                                 "Text": "Citation Description goes here",
                                 //Width
