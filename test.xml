@@ -34,14 +34,6 @@
                 <ScaleFactor>1</ScaleFactor>
                 <FieldList>
                     <BaseField>
-                        <Container>CON_65D_30_004_4__b_hd</Container>
-                        <StatuteID>STAT_65D_30_004_4__b_hd</StatuteID>
-                        <Rule>65D-30.004(4)(b)</Rule>
-                        <CitationDescription>**Screening of Staff.**</CitationDescription>
-                    </BaseField>
-                </FieldList>
-                <FieldList>
-                    <BaseField>
                         <BackgroundColor>0</BackgroundColor>
                         <BackgroundColorString>#00FFFFFF</BackgroundColorString>
                         <ConnectionString>null</ConnectionString>

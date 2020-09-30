@@ -42,7 +42,7 @@
                             }
                         },
                         {
-                            "BaseFieldCON": {
+                            "BaseField": {
                                 "BackgroundColor": "0",
                                 "BackgroundColorString": "#00FFFFFF",
                                 "ConnectionString": null,
@@ -269,7 +269,7 @@
                         },
                         {
                             "Container": "CON_65D_30_004_4__b_pt2",
-                            "StatuteID": "STAT_65D_30_004_4__b_pt2",
+                            "Statute ID": "STAT_65D_30_004_4__b_pt2",
                             "Rule": "65D-30.004(4)(b)",
                             "CitationDescription": "All service provider personnel, and volunteers who have direct contact with children receiving services or with adults with intellectual disabilities receiving services are subject to level 2 background screening as provided under chapter 435, and section 397.4073, F.S.",
                             "Response": "RES_65D_30_004_4__b_pt2",
