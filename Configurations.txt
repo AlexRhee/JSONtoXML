@@ -1,0 +1,20 @@
+---------
+Citations
+---------
+
+-Citations character length per line: 67
+-Default rows for Citations: 4
+-Max Citation characters before needing to increase height: 268
+After 268, every 67 characters will increase the height of both the citation text box and the container height by 20px
+
+-Largest citation: 886 characters
+
+--------
+Statutes
+--------
+
+-Statute character length per line: 17
+After 17 characters we need to either wrap the text below or decide to increase the length of the label
+
+-Largest Statute: 26
+5 total statues above 17 characters
