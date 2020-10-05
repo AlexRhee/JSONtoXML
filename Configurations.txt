@@ -1,3 +1,8 @@
+-----
+Page
+-----
+Width: 1100
+
 ---------
 Citations
 ---------
@@ -17,4 +22,4 @@ Statutes
 After 17 characters we need to either wrap the text below or decide to increase the length of the label
 
 -Largest Statute: 26
-5 total statues above 17 characters
+5 total statutes above 17 characters
