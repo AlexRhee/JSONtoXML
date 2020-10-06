@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AlexRhee/JSONtoXML#readme",
   "dependencies": {
+    "fs": "0.0.1-security",
     "js2xmlparser": "^4.0.1"
   }
 }
