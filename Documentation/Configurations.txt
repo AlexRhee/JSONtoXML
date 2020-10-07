@@ -23,3 +23,15 @@ After 17 characters we need to either wrap the text below or decide to increase 
 
 -Largest Statute: 26
 5 total statutes above 17 characters
+
+
+-----
+GUIDs
+-----
+
+-All GUIDs must follow a set format, ex. 63751eca-6179-06ff-68bb-296b959bb08c
+    -Deviating from this format will cause the import to fail
+    -An example deviation is changing the ending character from c to a number like 9
+-PageID's can be the same from form to form
+-FormTemplateID and FormTemplateCHID can initially be set with the GUIDS of other forms
+    -On import, the IDs will automatically be changed by VV
