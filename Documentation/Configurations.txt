@@ -27,10 +27,11 @@ After 17 characters we need to either wrap the text below or decide to increase 
 --------
 Headers
 --------
+
 -Container default size: 60
 -Header character length per line: 54
 -Default rows: 2
-After 108 characters, increase container size by 20 and by 20 for every 54 charactes after that
+After 108 characters, increase container size by 20 and by 20 for every 54 characters after that
 
 -----
 GUIDs
