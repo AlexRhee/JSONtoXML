@@ -1,0 +1,1420 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<FormEntity xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BackgroundColor>#FFFFFFFF</BackgroundColor>
+	<FormTemplateId>14ae7358-c108-eb11-a9bb-ff3b05d364b3</FormTemplateId>
+	<FormTemplateChId>8592b2b9-bf08-eb11-a9bb-ff3b05d364b3</FormTemplateChId>
+	<CustomerCategoryId>baacbbb9-bf08-eb11-81f4-b7cd7aa1478c</CustomerCategoryId>
+	<Version>4</Version>
+	<FormWidth>800</FormWidth>
+	<FormHeight>1000</FormHeight>
+	<MaximumAttachment>0</MaximumAttachment>
+	<AttachmentRequired>false</AttachmentRequired>
+	<UseWorkflowTaskSecurity>false</UseWorkflowTaskSecurity>
+	<AllowOwner>true</AllowOwner>
+	<AllowEditor>true</AllowEditor>
+	<AllowViewer>true</AllowViewer>
+	<ConfirmationPage />
+	<AttachmentsFolder>/Attachments</AttachmentsFolder>
+	<AttachmentsFolderID>00000000-0000-0000-0000-000000000000</AttachmentsFolderID>
+	<OutsideFormValidationEnabled>false</OutsideFormValidationEnabled>
+	<OutsideProcessID>00000000-0000-0000-0000-000000000000</OutsideProcessID>
+	<FormPages>
+		<FormPage>
+			<PageId>63751eca-6179-06ff-68bb-296b959bb08c</PageId>
+			<PageNumber>1</PageNumber>
+			<PageName>Page 1</PageName>
+			<FactoryPageName>Page 1</FactoryPageName>
+			<Version>0</Version>
+			<Width>1100</Width>
+			<Height>370</Height>
+			<BackgroundColor>#FFFFFFFF</BackgroundColor>
+			<FormCanvasWidth>0</FormCanvasWidth>
+			<FormCanvasHeight>0</FormCanvasHeight>
+			<ScaleFactor>1</ScaleFactor>
+			<FieldList>
+				<BaseField xsi:type="FieldContainer">
+					<BackgroundColor>0</BackgroundColor>
+					<BackgroundColorString>#00FFFFFF</BackgroundColorString>
+					<ConnectionString />
+					<Container>0</Container>
+					<ContainerId>00000000-0000-0000-0000-000000000000</ContainerId>
+					<ContainerLayoutTopOffset>0</ContainerLayoutTopOffset>
+					<ErrorMessage />
+					<ErrorPIC>~\scripts\error.gif</ErrorPIC>
+					<ExtCcID>00000000-0000-0000-0000-000000000000</ExtCcID>
+					<ExtCqID>00000000-0000-0000-0000-000000000000</ExtCqID>
+					<ExtEnableQuery>false</ExtEnableQuery>
+					<ExternalQuery />
+					<FieldMappings />
+					<FieldToColumnMappingList />
+					<QueryColumnOperatorMappingList />
+					<FieldType>Container</FieldType>
+					<ForeColor>0</ForeColor>
+					<ForegroundColorString>#FF000000</ForegroundColorString>
+					<ID>eb0b7b31-9a71-8a52-8459-0a0aa26ae3b3</ID>
+					<IsRetired>false</IsRetired>
+					<LayoutLeft>0</LayoutLeft>
+					<LayoutTop>0</LayoutTop>
+					<Name>Container21</Name>
+					<PageId>63751eca-6179-06ff-68bb-296b959bb08c</PageId>
+					<PrimaryKey />
+					<RenderAsReadOnly>false</RenderAsReadOnly>
+					<RenderValidationError>false</RenderValidationError>
+					<RowID />
+					<Section508Compliant>false</Section508Compliant>
+					<SectionID />
+					<SectionIndex>0</SectionIndex>
+					<TabOrder>0</TabOrder>
+					<UseColor>false</UseColor>
+					<ValidationErrorMessage />
+					<ValidationErrorPic>~\scripts\error.gif</ValidationErrorPic>
+					<Value />
+					<Version>1</Version>
+					<ZOrder>1</ZOrder>
+					<IsDataReportingColumn>true</IsDataReportingColumn>
+					<IsPrintableField>true</IsPrintableField>
+					<FormVersion>FormVersion4</FormVersion>
+					<AccessibilityLabel />
+					<Index>0</Index>
+					<Width>1100</Width>
+					<Height>90</Height>
+					<FieldList />
+					<FieldIdList />
+					<Style>0</Style>
+					<ResponsiveFlow>0</ResponsiveFlow>
+					<isCollapsible>false</isCollapsible>
+				</BaseField>
+				<BaseField xsi:type="FieldLabel">
+					<BackgroundColor>0</BackgroundColor>
+					<BackgroundColorString>#00FFFFFF</BackgroundColorString>
+					<ConnectionString />
+					<Container>0</Container>
+					<ContainerId>eb0b7b31-9a71-8a52-8459-0a0aa26ae3b3</ContainerId>
+					<ContainerLayoutTopOffset>0</ContainerLayoutTopOffset>
+					<ErrorMessage />
+					<ErrorPIC>~\scripts\error.gif</ErrorPIC>
+					<ExtCcID>00000000-0000-0000-0000-000000000000</ExtCcID>
+					<ExtCqID>00000000-0000-0000-0000-000000000000</ExtCqID>
+					<ExtEnableQuery>false</ExtEnableQuery>
+					<ExternalQuery />
+					<FieldMappings />
+					<FieldToColumnMappingList />
+					<QueryColumnOperatorMappingList />
+					<FieldType>Label</FieldType>
+					<ForeColor>0</ForeColor>
+					<ForegroundColorString>#FF000000</ForegroundColorString>
+					<ID>03244f1a-50ec-8486-7467-07f303efbf21</ID>
+					<IsRetired>false</IsRetired>
+					<LayoutLeft>250</LayoutLeft>
+					<LayoutTop>10</LayoutTop>
+					<Name>PageHeader</Name>
+					<PageId>63751eca-6179-06ff-68bb-296b959bb08c</PageId>
+					<PrimaryKey />
+					<RenderAsReadOnly>false</RenderAsReadOnly>
+					<RenderValidationError>false</RenderValidationError>
+					<RowID />
+					<Section508Compliant>false</Section508Compliant>
+					<SectionID />
+					<SectionIndex>0</SectionIndex>
+					<TabOrder>0</TabOrder>
+					<UseColor>false</UseColor>
+					<ValidationErrorMessage />
+					<ValidationErrorPic>~\scripts\error.gif</ValidationErrorPic>
+					<Value />
+					<Version>1</Version>
+					<ZOrder>1</ZOrder>
+					<IsDataReportingColumn>true</IsDataReportingColumn>
+					<IsPrintableField>true</IsPrintableField>
+					<FormVersion>FormVersion4</FormVersion>
+					<AccessibilityLabel />
+					<Align>Center</Align>
+					<AssociatedControlID>00000000-0000-0000-0000-000000000000</AssociatedControlID>
+					<Bold>false</Bold>
+					<EnableQListener>false</EnableQListener>
+					<FontSize>10</FontSize>
+					<LabelWrap>false</LabelWrap>
+					<Text>Page Header</Text>
+					<Width>600</Width>
+				</BaseField>
+				<BaseField xsi:type="FieldContainer">
+					<BackgroundColor>0</BackgroundColor>
+					<BackgroundColorString>#ff3b80cf</BackgroundColorString>
+					<ConnectionString />
+					<Container>0</Container>
+					<ContainerId>00000000-0000-0000-0000-000000000000</ContainerId>
+					<ContainerLayoutTopOffset>0</ContainerLayoutTopOffset>
+					<ErrorMessage />
+					<ErrorPIC>~\scripts\error.gif</ErrorPIC>
+					<ExtCcID>00000000-0000-0000-0000-000000000000</ExtCcID>
+					<ExtCqID>00000000-0000-0000-0000-000000000000</ExtCqID>
+					<ExtEnableQuery>false</ExtEnableQuery>
+					<ExternalQuery />
+					<FieldMappings />
+					<FieldToColumnMappingList />
+					<QueryColumnOperatorMappingList />
+					<FieldType>Container</FieldType>
+					<ForeColor>0</ForeColor>
+					<ForegroundColorString>#FF000000</ForegroundColorString>
+					<ID>cac29c77-920c-dc8d-71b0-f4e2fef9e694</ID>
+					<IsRetired>false</IsRetired>
+					<LayoutLeft>0</LayoutLeft>
+					<LayoutTop>90</LayoutTop>
+					<Name>Container23</Name>
+					<PageId>63751eca-6179-06ff-68bb-296b959bb08c</PageId>
+					<PrimaryKey />
+					<RenderAsReadOnly>false</RenderAsReadOnly>
+					<RenderValidationError>false</RenderValidationError>
+					<RowID />
+					<Section508Compliant>false</Section508Compliant>
+					<SectionID />
+					<SectionIndex>0</SectionIndex>
+					<TabOrder>0</TabOrder>
+					<UseColor>false</UseColor>
+					<ValidationErrorMessage />
+					<ValidationErrorPic>~\scripts\error.gif</ValidationErrorPic>
+					<Value />
+					<Version>1</Version>
+					<ZOrder>1</ZOrder>
+					<IsDataReportingColumn>true</IsDataReportingColumn>
+					<IsPrintableField>true</IsPrintableField>
+					<FormVersion>FormVersion4</FormVersion>
+					<AccessibilityLabel />
+					<Index>1</Index>
+					<Width>1100</Width>
+					<Height>10</Height>
+					<FieldList />
+					<FieldIdList />
+					<Style>0</Style>
+					<ResponsiveFlow>0</ResponsiveFlow>
+					<isCollapsible>false</isCollapsible>
+				</BaseField>
+				<BaseField xsi:type="FieldContainer">
+					<BackgroundColor>0</BackgroundColor>
+					<BackgroundColorString>#ff9298a0</BackgroundColorString>
+					<ConnectionString />
+					<Container>0</Container>
+					<ContainerId>00000000-0000-0000-0000-000000000000</ContainerId>
+					<ContainerLayoutTopOffset>0</ContainerLayoutTopOffset>
+					<ErrorMessage />
+					<ErrorPIC>~\scripts\error.gif</ErrorPIC>
+					<ExtCcID>00000000-0000-0000-0000-000000000000</ExtCcID>
+					<ExtCqID>00000000-0000-0000-0000-000000000000</ExtCqID>
+					<ExtEnableQuery>false</ExtEnableQuery>
+					<ExternalQuery />
+					<FieldMappings />
+					<FieldToColumnMappingList />
+					<QueryColumnOperatorMappingList />
+					<FieldType>Container</FieldType>
+					<ForeColor>0</ForeColor>
+					<ForegroundColorString>#FF000000</ForegroundColorString>
+					<ID>f6463636-1c19-9def-0596-8184ba6f39b8</ID>
+					<IsRetired>false</IsRetired>
+					<LayoutLeft>0</LayoutLeft>
+					<LayoutTop>100</LayoutTop>
+					<Name>Container24</Name>
+					<PageId>63751eca-6179-06ff-68bb-296b959bb08c</PageId>
+					<PrimaryKey />
+					<RenderAsReadOnly>false</RenderAsReadOnly>
+					<RenderValidationError>false</RenderValidationError>
+					<RowID />
+					<Section508Compliant>false</Section508Compliant>
+					<SectionID />
+					<SectionIndex>0</SectionIndex>
+					<TabOrder>0</TabOrder>
+					<UseColor>false</UseColor>
+					<ValidationErrorMessage />
+					<ValidationErrorPic>~\scripts\error.gif</ValidationErrorPic>
+					<Value />
+					<Version>1</Version>
+					<ZOrder>1</ZOrder>
+					<IsDataReportingColumn>true</IsDataReportingColumn>
+					<IsPrintableField>true</IsPrintableField>
+					<FormVersion>FormVersion4</FormVersion>
+					<AccessibilityLabel />
+					<Index>2</Index>
+					<Width>1100</Width>
+					<Height>50</Height>
+					<FieldList />
+					<FieldIdList />
+					<Style>0</Style>
+					<ResponsiveFlow>0</ResponsiveFlow>
+					<isCollapsible>false</isCollapsible>
+				</BaseField>
+				<BaseField xsi:type="FieldLabel">
+					<BackgroundColor>0</BackgroundColor>
+					<BackgroundColorString>#00FFFFFF</BackgroundColorString>
+					<ConnectionString />
+					<Container>0</Container>
+					<ContainerId>f6463636-1c19-9def-0596-8184ba6f39b8</ContainerId>
+					<ContainerLayoutTopOffset>0</ContainerLayoutTopOffset>
+					<ErrorMessage />
+					<ErrorPIC>~\scripts\error.gif</ErrorPIC>
+					<ExtCcID>00000000-0000-0000-0000-000000000000</ExtCcID>
+					<ExtCqID>00000000-0000-0000-0000-000000000000</ExtCqID>
+					<ExtEnableQuery>false</ExtEnableQuery>
+					<ExternalQuery />
+					<FieldMappings />
+					<FieldToColumnMappingList />
+					<QueryColumnOperatorMappingList />
+					<FieldType>Label</FieldType>
+					<ForeColor>0</ForeColor>
+					<ForegroundColorString>#FF000000</ForegroundColorString>
+					<ID>35cd178f-1e5b-01d3-5d0e-85554e7d0234</ID>
+					<IsRetired>false</IsRetired>
+					<LayoutLeft>30</LayoutLeft>
+					<LayoutTop>100</LayoutTop>
+					<Name>SectionHeader</Name>
+					<PageId>63751eca-6179-06ff-68bb-296b959bb08c</PageId>
+					<PrimaryKey />
+					<RenderAsReadOnly>false</RenderAsReadOnly>
+					<RenderValidationError>false</RenderValidationError>
+					<RowID />
+					<Section508Compliant>false</Section508Compliant>
+					<SectionID />
+					<SectionIndex>0</SectionIndex>
+					<TabOrder>0</TabOrder>
+					<UseColor>false</UseColor>
+					<ValidationErrorMessage />
+					<ValidationErrorPic>~\scripts\error.gif</ValidationErrorPic>
+					<Value />
+					<Version>1</Version>
+					<ZOrder>6</ZOrder>
+					<IsDataReportingColumn>true</IsDataReportingColumn>
+					<IsPrintableField>true</IsPrintableField>
+					<FormVersion>FormVersion4</FormVersion>
+					<AccessibilityLabel />
+					<Align>Left</Align>
+					<AssociatedControlID>00000000-0000-0000-0000-000000000000</AssociatedControlID>
+					<Bold>true</Bold>
+					<EnableQListener>false</EnableQListener>
+					<FontSize>12</FontSize>
+					<LabelWrap>false</LabelWrap>
+					<Text>Section Header</Text>
+					<Width>160</Width>
+				</BaseField>
+				<BaseField xsi:type="FieldContainer">
+					<BackgroundColor>0</BackgroundColor>
+					<BackgroundColorString>#00FFFFFF</BackgroundColorString>
+					<ConnectionString />
+					<Container>0</Container>
+					<ContainerId>00000000-0000-0000-0000-000000000000</ContainerId>
+					<ContainerLayoutTopOffset>0</ContainerLayoutTopOffset>
+					<ErrorMessage />
+					<ErrorPIC>~\scripts\error.gif</ErrorPIC>
+					<ExtCcID>00000000-0000-0000-0000-000000000000</ExtCcID>
+					<ExtCqID>00000000-0000-0000-0000-000000000000</ExtCqID>
+					<ExtEnableQuery>false</ExtEnableQuery>
+					<ExternalQuery />
+					<FieldMappings />
+					<FieldToColumnMappingList />
+					<QueryColumnOperatorMappingList />
+					<FieldType>Container</FieldType>
+					<ForeColor>0</ForeColor>
+					<ForegroundColorString>#FF000000</ForegroundColorString>
+					<ID>5191d08e-3442-9768-4650-0122fc12930c</ID>
+					<IsRetired>false</IsRetired>
+					<LayoutLeft>0</LayoutLeft>
+					<LayoutTop>150</LayoutTop>
+					<Name>Header Container</Name>
+					<PageId>63751eca-6179-06ff-68bb-296b959bb08c</PageId>
+					<PrimaryKey />
+					<RenderAsReadOnly>false</RenderAsReadOnly>
+					<RenderValidationError>false</RenderValidationError>
+					<RowID />
+					<Section508Compliant>false</Section508Compliant>
+					<SectionID />
+					<SectionIndex>0</SectionIndex>
+					<TabOrder>0</TabOrder>
+					<UseColor>false</UseColor>
+					<ValidationErrorMessage />
+					<ValidationErrorPic>~\scripts\error.gif</ValidationErrorPic>
+					<Value />
+					<Version>1</Version>
+					<ZOrder>1</ZOrder>
+					<IsDataReportingColumn>true</IsDataReportingColumn>
+					<IsPrintableField>true</IsPrintableField>
+					<FormVersion>FormVersion4</FormVersion>
+					<AccessibilityLabel />
+					<Index>3</Index>
+					<Width>1000</Width>
+					<Height>30</Height>
+					<FieldList />
+					<FieldIdList />
+					<Style>0</Style>
+					<ResponsiveFlow>0</ResponsiveFlow>
+					<isCollapsible>false</isCollapsible>
+				</BaseField>
+				<BaseField xsi:type="FieldLabel">
+					<BackgroundColor>0</BackgroundColor>
+					<BackgroundColorString>#00FFFFFF</BackgroundColorString>
+					<ConnectionString />
+					<Container>0</Container>
+					<ContainerId>5191d08e-3442-9768-4650-0122fc12930c</ContainerId>
+					<ContainerLayoutTopOffset>0</ContainerLayoutTopOffset>
+					<ErrorMessage />
+					<ErrorPIC>~\scripts\error.gif</ErrorPIC>
+					<ExtCcID>00000000-0000-0000-0000-000000000000</ExtCcID>
+					<ExtCqID>00000000-0000-0000-0000-000000000000</ExtCqID>
+					<ExtEnableQuery>false</ExtEnableQuery>
+					<ExternalQuery />
+					<FieldMappings />
+					<FieldToColumnMappingList />
+					<QueryColumnOperatorMappingList />
+					<FieldType>Label</FieldType>
+					<ForeColor>0</ForeColor>
+					<ForegroundColorString>#FF000000</ForegroundColorString>
+					<ID>a9cea8c0-86f8-2942-493a-d4e5e14ce15c</ID>
+					<IsRetired>false</IsRetired>
+					<LayoutLeft>10</LayoutLeft>
+					<LayoutTop>160</LayoutTop>
+					<Name>Label16</Name>
+					<PageId>63751eca-6179-06ff-68bb-296b959bb08c</PageId>
+					<PrimaryKey />
+					<RenderAsReadOnly>false</RenderAsReadOnly>
+					<RenderValidationError>false</RenderValidationError>
+					<RowID />
+					<Section508Compliant>false</Section508Compliant>
+					<SectionID />
+					<SectionIndex>0</SectionIndex>
+					<TabOrder>0</TabOrder>
+					<UseColor>false</UseColor>
+					<ValidationErrorMessage />
+					<ValidationErrorPic>~\scripts\error.gif</ValidationErrorPic>
+					<Value />
+					<Version>1</Version>
+					<ZOrder>1</ZOrder>
+					<IsDataReportingColumn>true</IsDataReportingColumn>
+					<IsPrintableField>true</IsPrintableField>
+					<FormVersion>FormVersion4</FormVersion>
+					<AccessibilityLabel />
+					<Align>Left</Align>
+					<AssociatedControlID>00000000-0000-0000-0000-000000000000</AssociatedControlID>
+					<Bold>true</Bold>
+					<EnableQListener>false</EnableQListener>
+					<FontSize>9</FontSize>
+					<LabelWrap>false</LabelWrap>
+					<Text>Statute</Text>
+					<Width>72</Width>
+				</BaseField>
+				<BaseField xsi:type="FieldLabel">
+					<BackgroundColor>0</BackgroundColor>
+					<BackgroundColorString>#00FFFFFF</BackgroundColorString>
+					<ConnectionString />
+					<Container>0</Container>
+					<ContainerId>5191d08e-3442-9768-4650-0122fc12930c</ContainerId>
+					<ContainerLayoutTopOffset>0</ContainerLayoutTopOffset>
+					<ErrorMessage />
+					<ErrorPIC>~\scripts\error.gif</ErrorPIC>
+					<ExtCcID>00000000-0000-0000-0000-000000000000</ExtCcID>
+					<ExtCqID>00000000-0000-0000-0000-000000000000</ExtCqID>
+					<ExtEnableQuery>false</ExtEnableQuery>
+					<ExternalQuery />
+					<FieldMappings />
+					<FieldToColumnMappingList />
+					<QueryColumnOperatorMappingList />
+					<FieldType>Label</FieldType>
+					<ForeColor>0</ForeColor>
+					<ForegroundColorString>#FF000000</ForegroundColorString>
+					<ID>d3720a41-7a43-c136-f240-d57dce3269aa</ID>
+					<IsRetired>false</IsRetired>
+					<LayoutLeft>200</LayoutLeft>
+					<LayoutTop>160</LayoutTop>
+					<Name>Label17</Name>
+					<PageId>63751eca-6179-06ff-68bb-296b959bb08c</PageId>
+					<PrimaryKey />
+					<RenderAsReadOnly>false</RenderAsReadOnly>
+					<RenderValidationError>false</RenderValidationError>
+					<RowID />
+					<Section508Compliant>false</Section508Compliant>
+					<SectionID />
+					<SectionIndex>0</SectionIndex>
+					<TabOrder>0</TabOrder>
+					<UseColor>false</UseColor>
+					<ValidationErrorMessage />
+					<ValidationErrorPic>~\scripts\error.gif</ValidationErrorPic>
+					<Value />
+					<Version>1</Version>
+					<ZOrder>2</ZOrder>
+					<IsDataReportingColumn>true</IsDataReportingColumn>
+					<IsPrintableField>true</IsPrintableField>
+					<FormVersion>FormVersion4</FormVersion>
+					<AccessibilityLabel />
+					<Align>Left</Align>
+					<AssociatedControlID>00000000-0000-0000-0000-000000000000</AssociatedControlID>
+					<Bold>true</Bold>
+					<EnableQListener>false</EnableQListener>
+					<FontSize>9</FontSize>
+					<LabelWrap>false</LabelWrap>
+					<Text>Citation Description and Questions</Text>
+					<Width>352</Width>
+				</BaseField>
+				<BaseField xsi:type="FieldLabel">
+					<BackgroundColor>0</BackgroundColor>
+					<BackgroundColorString>#00FFFFFF</BackgroundColorString>
+					<ConnectionString />
+					<Container>0</Container>
+					<ContainerId>5191d08e-3442-9768-4650-0122fc12930c</ContainerId>
+					<ContainerLayoutTopOffset>0</ContainerLayoutTopOffset>
+					<ErrorMessage />
+					<ErrorPIC>~\scripts\error.gif</ErrorPIC>
+					<ExtCcID>00000000-0000-0000-0000-000000000000</ExtCcID>
+					<ExtCqID>00000000-0000-0000-0000-000000000000</ExtCqID>
+					<ExtEnableQuery>false</ExtEnableQuery>
+					<ExternalQuery />
+					<FieldMappings />
+					<FieldToColumnMappingList />
+					<QueryColumnOperatorMappingList />
+					<FieldType>Label</FieldType>
+					<ForeColor>0</ForeColor>
+					<ForegroundColorString>#FF000000</ForegroundColorString>
+					<ID>0f5d5cab-247f-ce19-5d31-fb113bb1b104</ID>
+					<IsRetired>false</IsRetired>
+					<LayoutLeft>610</LayoutLeft>
+					<LayoutTop>160</LayoutTop>
+					<Name>Label18</Name>
+					<PageId>63751eca-6179-06ff-68bb-296b959bb08c</PageId>
+					<PrimaryKey />
+					<RenderAsReadOnly>false</RenderAsReadOnly>
+					<RenderValidationError>false</RenderValidationError>
+					<RowID />
+					<Section508Compliant>false</Section508Compliant>
+					<SectionID />
+					<SectionIndex>0</SectionIndex>
+					<TabOrder>0</TabOrder>
+					<UseColor>false</UseColor>
+					<ValidationErrorMessage />
+					<ValidationErrorPic>~\scripts\error.gif</ValidationErrorPic>
+					<Value />
+					<Version>1</Version>
+					<ZOrder>3</ZOrder>
+					<IsDataReportingColumn>true</IsDataReportingColumn>
+					<IsPrintableField>true</IsPrintableField>
+					<FormVersion>FormVersion4</FormVersion>
+					<AccessibilityLabel />
+					<Align>Left</Align>
+					<AssociatedControlID>00000000-0000-0000-0000-000000000000</AssociatedControlID>
+					<Bold>true</Bold>
+					<EnableQListener>false</EnableQListener>
+					<FontSize>9</FontSize>
+					<LabelWrap>false</LabelWrap>
+					<Text>Result</Text>
+					<Width>72</Width>
+				</BaseField>
+				<BaseField xsi:type="FieldLabel">
+					<BackgroundColor>0</BackgroundColor>
+					<BackgroundColorString>#00FFFFFF</BackgroundColorString>
+					<ConnectionString />
+					<Container>0</Container>
+					<ContainerId>5191d08e-3442-9768-4650-0122fc12930c</ContainerId>
+					<ContainerLayoutTopOffset>0</ContainerLayoutTopOffset>
+					<ErrorMessage />
+					<ErrorPIC>~\scripts\error.gif</ErrorPIC>
+					<ExtCcID>00000000-0000-0000-0000-000000000000</ExtCcID>
+					<ExtCqID>00000000-0000-0000-0000-000000000000</ExtCqID>
+					<ExtEnableQuery>false</ExtEnableQuery>
+					<ExternalQuery />
+					<FieldMappings />
+					<FieldToColumnMappingList />
+					<QueryColumnOperatorMappingList />
+					<FieldType>Label</FieldType>
+					<ForeColor>0</ForeColor>
+					<ForegroundColorString>#FF000000</ForegroundColorString>
+					<ID>ec5763f1-623c-af22-2b55-88e30beb123d</ID>
+					<IsRetired>false</IsRetired>
+					<LayoutLeft>700</LayoutLeft>
+					<LayoutTop>160</LayoutTop>
+					<Name>Label19</Name>
+					<PageId>63751eca-6179-06ff-68bb-296b959bb08c</PageId>
+					<PrimaryKey />
+					<RenderAsReadOnly>false</RenderAsReadOnly>
+					<RenderValidationError>false</RenderValidationError>
+					<RowID />
+					<Section508Compliant>false</Section508Compliant>
+					<SectionID />
+					<SectionIndex>0</SectionIndex>
+					<TabOrder>0</TabOrder>
+					<UseColor>false</UseColor>
+					<ValidationErrorMessage />
+					<ValidationErrorPic>~\scripts\error.gif</ValidationErrorPic>
+					<Value />
+					<Version>1</Version>
+					<ZOrder>4</ZOrder>
+					<IsDataReportingColumn>true</IsDataReportingColumn>
+					<IsPrintableField>true</IsPrintableField>
+					<FormVersion>FormVersion4</FormVersion>
+					<AccessibilityLabel />
+					<Align>Left</Align>
+					<AssociatedControlID>00000000-0000-0000-0000-000000000000</AssociatedControlID>
+					<Bold>true</Bold>
+					<EnableQListener>false</EnableQListener>
+					<FontSize>9</FontSize>
+					<LabelWrap>false</LabelWrap>
+					<Text>Comments</Text>
+					<Width>72</Width>
+				</BaseField>
+				<BaseField xsi:type="FieldLabel">
+					<BackgroundColor>0</BackgroundColor>
+					<BackgroundColorString>#00FFFFFF</BackgroundColorString>
+					<ConnectionString />
+					<Container>0</Container>
+					<ContainerId>5191d08e-3442-9768-4650-0122fc12930c</ContainerId>
+					<ContainerLayoutTopOffset>0</ContainerLayoutTopOffset>
+					<ErrorMessage />
+					<ErrorPIC>~\scripts\error.gif</ErrorPIC>
+					<ExtCcID>00000000-0000-0000-0000-000000000000</ExtCcID>
+					<ExtCqID>00000000-0000-0000-0000-000000000000</ExtCqID>
+					<ExtEnableQuery>false</ExtEnableQuery>
+					<ExternalQuery />
+					<FieldMappings />
+					<FieldToColumnMappingList />
+					<QueryColumnOperatorMappingList />
+					<FieldType>Label</FieldType>
+					<ForeColor>0</ForeColor>
+					<ForegroundColorString>#FF000000</ForegroundColorString>
+					<ID>e452e716-d8b3-4ad4-5b9f-4b81616ce261</ID>
+					<IsRetired>false</IsRetired>
+					<LayoutLeft>1010</LayoutLeft>
+					<LayoutTop>160</LayoutTop>
+					<Name>Label20</Name>
+					<PageId>63751eca-6179-06ff-68bb-296b959bb08c</PageId>
+					<PrimaryKey />
+					<RenderAsReadOnly>false</RenderAsReadOnly>
+					<RenderValidationError>false</RenderValidationError>
+					<RowID />
+					<Section508Compliant>false</Section508Compliant>
+					<SectionID />
+					<SectionIndex>0</SectionIndex>
+					<TabOrder>0</TabOrder>
+					<UseColor>false</UseColor>
+					<ValidationErrorMessage />
+					<ValidationErrorPic>~\scripts\error.gif</ValidationErrorPic>
+					<Value />
+					<Version>1</Version>
+					<ZOrder>5</ZOrder>
+					<IsDataReportingColumn>true</IsDataReportingColumn>
+					<IsPrintableField>true</IsPrintableField>
+					<FormVersion>FormVersion4</FormVersion>
+					<AccessibilityLabel />
+					<Align>Left</Align>
+					<AssociatedControlID>00000000-0000-0000-0000-000000000000</AssociatedControlID>
+					<Bold>true</Bold>
+					<EnableQListener>false</EnableQListener>
+					<FontSize>9</FontSize>
+					<LabelWrap>false</LabelWrap>
+					<Text>Violation</Text>
+					<Width>72</Width>
+				</BaseField>
+				<BaseField xsi:type="FieldContainer">
+					<BackgroundColor>0</BackgroundColor>
+					<BackgroundColorString>#ff3b80cf</BackgroundColorString>
+					<ConnectionString />
+					<Container>0</Container>
+					<ContainerId>00000000-0000-0000-0000-000000000000</ContainerId>
+					<ContainerLayoutTopOffset>0</ContainerLayoutTopOffset>
+					<ErrorMessage />
+					<ErrorPIC>~\scripts\error.gif</ErrorPIC>
+					<ExtCcID>00000000-0000-0000-0000-000000000000</ExtCcID>
+					<ExtCqID>00000000-0000-0000-0000-000000000000</ExtCqID>
+					<ExtEnableQuery>false</ExtEnableQuery>
+					<ExternalQuery />
+					<FieldMappings />
+					<FieldToColumnMappingList />
+					<QueryColumnOperatorMappingList />
+					<FieldType>Container</FieldType>
+					<ForeColor>0</ForeColor>
+					<ForegroundColorString>#FF000000</ForegroundColorString>
+					<ID>5cf6598f-933f-d956-5ab8-c6ac0ebf111e</ID>
+					<IsRetired>false</IsRetired>
+					<LayoutLeft>0</LayoutLeft>
+					<LayoutTop>180</LayoutTop>
+					<Name>Container25</Name>
+					<PageId>63751eca-6179-06ff-68bb-296b959bb08c</PageId>
+					<PrimaryKey />
+					<RenderAsReadOnly>false</RenderAsReadOnly>
+					<RenderValidationError>false</RenderValidationError>
+					<RowID />
+					<Section508Compliant>false</Section508Compliant>
+					<SectionID />
+					<SectionIndex>0</SectionIndex>
+					<TabOrder>0</TabOrder>
+					<UseColor>false</UseColor>
+					<ValidationErrorMessage />
+					<ValidationErrorPic>~\scripts\error.gif</ValidationErrorPic>
+					<Value />
+					<Version>1</Version>
+					<ZOrder>1</ZOrder>
+					<IsDataReportingColumn>true</IsDataReportingColumn>
+					<IsPrintableField>true</IsPrintableField>
+					<FormVersion>FormVersion4</FormVersion>
+					<AccessibilityLabel />
+					<Index>4</Index>
+					<Width>1100</Width>
+					<Height>10</Height>
+					<FieldList />
+					<FieldIdList />
+					<Style>0</Style>
+					<ResponsiveFlow>0</ResponsiveFlow>
+					<isCollapsible>false</isCollapsible>
+				</BaseField>
+				<BaseField xsi:type="FieldContainer">
+					<BackgroundColor>0</BackgroundColor>
+					<BackgroundColorString>#00FFFFFF</BackgroundColorString>
+					<ConnectionString />
+					<Container>0</Container>
+					<ContainerId>00000000-0000-0000-0000-000000000000</ContainerId>
+					<ContainerLayoutTopOffset>0</ContainerLayoutTopOffset>
+					<ErrorMessage />
+					<ErrorPIC>~\scripts\error.gif</ErrorPIC>
+					<ExtCcID>00000000-0000-0000-0000-000000000000</ExtCcID>
+					<ExtCqID>00000000-0000-0000-0000-000000000000</ExtCqID>
+					<ExtEnableQuery>false</ExtEnableQuery>
+					<ExternalQuery />
+					<FieldMappings />
+					<FieldToColumnMappingList />
+					<QueryColumnOperatorMappingList />
+					<FieldType>Container</FieldType>
+					<ForeColor>0</ForeColor>
+					<ForegroundColorString>#FF000000</ForegroundColorString>
+					<ID>ae9a009f-dff1-9410-e337-9d33cdd90347</ID>
+					<IsRetired>false</IsRetired>
+					<LayoutLeft>0</LayoutLeft>
+					<LayoutTop>190</LayoutTop>
+					<Name>Container1</Name>
+					<PageId>63751eca-6179-06ff-68bb-296b959bb08c</PageId>
+					<PrimaryKey />
+					<RenderAsReadOnly>false</RenderAsReadOnly>
+					<RenderValidationError>false</RenderValidationError>
+					<RowID />
+					<Section508Compliant>false</Section508Compliant>
+					<SectionID />
+					<SectionIndex>0</SectionIndex>
+					<TabOrder>0</TabOrder>
+					<UseColor>false</UseColor>
+					<ValidationErrorMessage />
+					<ValidationErrorPic>~\scripts\error.gif</ValidationErrorPic>
+					<Value />
+					<Version>1</Version>
+					<ZOrder>1</ZOrder>
+					<IsDataReportingColumn>true</IsDataReportingColumn>
+					<IsPrintableField>true</IsPrintableField>
+					<FormVersion>FormVersion4</FormVersion>
+					<AccessibilityLabel />
+					<Index>5</Index>
+					<Width>860</Width>
+					<Height>90</Height>
+					<FieldList />
+					<FieldIdList />
+					<Style>0</Style>
+					<ResponsiveFlow>0</ResponsiveFlow>
+					<isCollapsible>false</isCollapsible>
+				</BaseField>
+				<BaseField xsi:type="FieldLabel">
+					<BackgroundColor>0</BackgroundColor>
+					<BackgroundColorString>#00FFFFFF</BackgroundColorString>
+					<ConnectionString />
+					<Container>0</Container>
+					<ContainerId>ae9a009f-dff1-9410-e337-9d33cdd90347</ContainerId>
+					<ContainerLayoutTopOffset>0</ContainerLayoutTopOffset>
+					<ErrorMessage />
+					<ErrorPIC>~\scripts\error.gif</ErrorPIC>
+					<ExtCcID>00000000-0000-0000-0000-000000000000</ExtCcID>
+					<ExtCqID>00000000-0000-0000-0000-000000000000</ExtCqID>
+					<ExtEnableQuery>false</ExtEnableQuery>
+					<ExternalQuery />
+					<FieldMappings />
+					<FieldToColumnMappingList />
+					<QueryColumnOperatorMappingList />
+					<FieldType>Label</FieldType>
+					<ForeColor>0</ForeColor>
+					<ForegroundColorString>#FF000000</ForegroundColorString>
+					<ID>4e65adfe-ba77-6bde-3d65-c0d8645aad35</ID>
+					<IsRetired>false</IsRetired>
+					<LayoutLeft>10</LayoutLeft>
+					<LayoutTop>200</LayoutTop>
+					<Name>Statute 1</Name>
+					<PageId>63751eca-6179-06ff-68bb-296b959bb08c</PageId>
+					<PrimaryKey />
+					<RenderAsReadOnly>false</RenderAsReadOnly>
+					<RenderValidationError>false</RenderValidationError>
+					<RowID />
+					<Section508Compliant>false</Section508Compliant>
+					<SectionID />
+					<SectionIndex>0</SectionIndex>
+					<TabOrder>0</TabOrder>
+					<UseColor>false</UseColor>
+					<ValidationErrorMessage />
+					<ValidationErrorPic>~\scripts\error.gif</ValidationErrorPic>
+					<Value />
+					<Version>1</Version>
+					<ZOrder>1</ZOrder>
+					<IsDataReportingColumn>true</IsDataReportingColumn>
+					<IsPrintableField>true</IsPrintableField>
+					<FormVersion>FormVersion4</FormVersion>
+					<AccessibilityLabel />
+					<Align>Left</Align>
+					<AssociatedControlID>00000000-0000-0000-0000-000000000000</AssociatedControlID>
+					<Bold>false</Bold>
+					<EnableQListener>false</EnableQListener>
+					<FontSize>8</FontSize>
+					<LabelWrap>false</LabelWrap>
+					<Text>Statute 1</Text>
+					<Width>162</Width>
+				</BaseField>
+				<BaseField xsi:type="FieldLabel">
+					<BackgroundColor>0</BackgroundColor>
+					<BackgroundColorString>#00FFFFFF</BackgroundColorString>
+					<ConnectionString />
+					<Container>0</Container>
+					<ContainerId>ae9a009f-dff1-9410-e337-9d33cdd90347</ContainerId>
+					<ContainerLayoutTopOffset>0</ContainerLayoutTopOffset>
+					<ErrorMessage />
+					<ErrorPIC>~\scripts\error.gif</ErrorPIC>
+					<ExtCcID>00000000-0000-0000-0000-000000000000</ExtCcID>
+					<ExtCqID>00000000-0000-0000-0000-000000000000</ExtCqID>
+					<ExtEnableQuery>false</ExtEnableQuery>
+					<ExternalQuery />
+					<FieldMappings />
+					<FieldToColumnMappingList />
+					<QueryColumnOperatorMappingList />
+					<FieldType>Label</FieldType>
+					<ForeColor>0</ForeColor>
+					<ForegroundColorString>#FF000000</ForegroundColorString>
+					<ID>b14ea9dd-c5bc-c71c-6f06-5e673c9a98aa</ID>
+					<IsRetired>false</IsRetired>
+					<LayoutLeft>200</LayoutLeft>
+					<LayoutTop>200</LayoutTop>
+					<Name>Description 1</Name>
+					<PageId>63751eca-6179-06ff-68bb-296b959bb08c</PageId>
+					<PrimaryKey />
+					<RenderAsReadOnly>false</RenderAsReadOnly>
+					<RenderValidationError>false</RenderValidationError>
+					<RowID />
+					<Section508Compliant>false</Section508Compliant>
+					<SectionID />
+					<SectionIndex>0</SectionIndex>
+					<TabOrder>0</TabOrder>
+					<UseColor>false</UseColor>
+					<ValidationErrorMessage />
+					<ValidationErrorPic>~\scripts\error.gif</ValidationErrorPic>
+					<Value />
+					<Version>1</Version>
+					<ZOrder>1</ZOrder>
+					<IsDataReportingColumn>true</IsDataReportingColumn>
+					<IsPrintableField>true</IsPrintableField>
+					<FormVersion>FormVersion4</FormVersion>
+					<AccessibilityLabel />
+					<Align>Left</Align>
+					<AssociatedControlID>00000000-0000-0000-0000-000000000000</AssociatedControlID>
+					<Bold>false</Bold>
+					<EnableQListener>false</EnableQListener>
+					<FontSize>8</FontSize>
+					<LabelWrap>true</LabelWrap>
+					<Text>This is an example descriptions of a citation and any questions regarding the respective citation.</Text>
+					<Width>400</Width>
+				</BaseField>
+				<BaseField xsi:type="FieldDropDownList3">
+					<BackgroundColor>0</BackgroundColor>
+					<BackgroundColorString>#00FFFFFF</BackgroundColorString>
+					<ConnectionString />
+					<Container>0</Container>
+					<ContainerId>ae9a009f-dff1-9410-e337-9d33cdd90347</ContainerId>
+					<ContainerLayoutTopOffset>0</ContainerLayoutTopOffset>
+					<ErrorMessage />
+					<ErrorPIC>~\scripts\error.gif</ErrorPIC>
+					<ExtCcID>00000000-0000-0000-0000-000000000000</ExtCcID>
+					<ExtCqID>00000000-0000-0000-0000-000000000000</ExtCqID>
+					<ExtEnableQuery>false</ExtEnableQuery>
+					<ExternalQuery />
+					<FieldMappings />
+					<FieldToColumnMappingList />
+					<QueryColumnOperatorMappingList />
+					<FieldType>DropDownList</FieldType>
+					<ForeColor>0</ForeColor>
+					<ForegroundColorString>#FF000000</ForegroundColorString>
+					<ID>e4ba42e2-4f0c-ff2b-49a0-b1c5513af852</ID>
+					<IsRetired>false</IsRetired>
+					<LayoutLeft>610</LayoutLeft>
+					<LayoutTop>200</LayoutTop>
+					<Name>Result 1</Name>
+					<PageId>63751eca-6179-06ff-68bb-296b959bb08c</PageId>
+					<PrimaryKey />
+					<RenderAsReadOnly>false</RenderAsReadOnly>
+					<RenderValidationError>false</RenderValidationError>
+					<RowID />
+					<Section508Compliant>false</Section508Compliant>
+					<SectionID />
+					<SectionIndex>0</SectionIndex>
+					<TabOrder>0</TabOrder>
+					<UseColor>false</UseColor>
+					<ValidationErrorMessage />
+					<ValidationErrorPic>~\scripts\error.gif</ValidationErrorPic>
+					<Value />
+					<Version>3</Version>
+					<ZOrder>1</ZOrder>
+					<IsDataReportingColumn>true</IsDataReportingColumn>
+					<IsPrintableField>true</IsPrintableField>
+					<FormVersion>FormVersion4</FormVersion>
+					<AccessibilityLabel />
+					<IsValidatorShowing>false</IsValidatorShowing>
+					<ValidationType>NoValidation</ValidationType>
+					<CascadedParentListId>00000000-0000-0000-0000-000000000000</CascadedParentListId>
+					<CascadedParentListValue />
+					<CcID>00000000-0000-0000-0000-000000000000</CcID>
+					<ChildCascadedList />
+					<CqID>00000000-0000-0000-0000-000000000000</CqID>
+					<CqTextFieldName />
+					<CqValueFieldName />
+					<DropDownConnectionType>CustomQuery</DropDownConnectionType>
+					<EnableCascadedList>false</EnableCascadedList>
+					<EnableCustomQuery>false</EnableCustomQuery>
+					<EnableFormQuery>false</EnableFormQuery>
+					<EnableQListener>false</EnableQListener>
+					<FillCacheEnabled>true</FillCacheEnabled>
+					<FillCacheTimeout>0.5</FillCacheTimeout>
+					<FillConnectionString />
+					<FillQuery />
+					<FormQueryID />
+					<HasCascadedParentValue>false</HasCascadedParentValue>
+					<IsParentCascadeControl>false</IsParentCascadeControl>
+					<ItemList>
+						<string>NA</string>
+					</ItemList>
+					<OptionList />
+					<ReportingProperty>Text</ReportingProperty>
+					<ReportingPropertySetting>0</ReportingPropertySetting>
+					<WorkflowConditionsDataProperty>Value</WorkflowConditionsDataProperty>
+					<WorkflowConditionsDataPropertySetting>1</WorkflowConditionsDataPropertySetting>
+					<SelectedIndex>0</SelectedIndex>
+					<SelectedText />
+					<Width>80</Width>
+					<CascadeQueryColumnOperatorMappingList />
+				</BaseField>
+				<BaseField xsi:type="FieldTextArea3">
+					<BackgroundColor>0</BackgroundColor>
+					<BackgroundColorString>#FFFFFFFF</BackgroundColorString>
+					<ConnectionString />
+					<Container>0</Container>
+					<ContainerId>ae9a009f-dff1-9410-e337-9d33cdd90347</ContainerId>
+					<ContainerLayoutTopOffset>0</ContainerLayoutTopOffset>
+					<ErrorMessage />
+					<ErrorPIC>~\scripts\error.gif</ErrorPIC>
+					<ExtCcID>00000000-0000-0000-0000-000000000000</ExtCcID>
+					<ExtCqID>00000000-0000-0000-0000-000000000000</ExtCqID>
+					<ExtEnableQuery>false</ExtEnableQuery>
+					<ExternalQuery />
+					<FieldMappings />
+					<FieldToColumnMappingList />
+					<QueryColumnOperatorMappingList />
+					<FieldType>MultiLineTextbox</FieldType>
+					<ForeColor>0</ForeColor>
+					<ForegroundColorString>#FF000000</ForegroundColorString>
+					<ID>6664542a-4cb0-57d2-928b-2429ebbc0d81</ID>
+					<IsRetired>false</IsRetired>
+					<LayoutLeft>700</LayoutLeft>
+					<LayoutTop>200</LayoutTop>
+					<Name>Comments 1</Name>
+					<PageId>63751eca-6179-06ff-68bb-296b959bb08c</PageId>
+					<PrimaryKey />
+					<RenderAsReadOnly>false</RenderAsReadOnly>
+					<RenderValidationError>false</RenderValidationError>
+					<RowID />
+					<Section508Compliant>false</Section508Compliant>
+					<SectionID />
+					<SectionIndex>0</SectionIndex>
+					<TabOrder>0</TabOrder>
+					<UseColor>false</UseColor>
+					<ValidationErrorMessage />
+					<ValidationErrorPic>~\scripts\error.gif</ValidationErrorPic>
+					<Value />
+					<Version>3</Version>
+					<ZOrder>1</ZOrder>
+					<IsDataReportingColumn>true</IsDataReportingColumn>
+					<IsPrintableField>true</IsPrintableField>
+					<FormVersion>FormVersion4</FormVersion>
+					<AccessibilityLabel />
+					<IsValidatorShowing>false</IsValidatorShowing>
+					<ValidationType>NoValidation</ValidationType>
+					<EnableQListener>false</EnableQListener>
+					<Length>1000</Length>
+					<Rows>4</Rows>
+					<Text />
+					<FontSize>8</FontSize>
+					<Width>300</Width>
+					<Height>60</Height>
+					<RenderAsHtmlEditor>false</RenderAsHtmlEditor>
+				</BaseField>
+				<BaseField xsi:type="FieldDropDownList3">
+					<BackgroundColor>0</BackgroundColor>
+					<BackgroundColorString>#00FFFFFF</BackgroundColorString>
+					<ConnectionString />
+					<Container>0</Container>
+					<ContainerId>ae9a009f-dff1-9410-e337-9d33cdd90347</ContainerId>
+					<ContainerLayoutTopOffset>0</ContainerLayoutTopOffset>
+					<ErrorMessage />
+					<ErrorPIC>~\scripts\error.gif</ErrorPIC>
+					<ExtCcID>00000000-0000-0000-0000-000000000000</ExtCcID>
+					<ExtCqID>00000000-0000-0000-0000-000000000000</ExtCqID>
+					<ExtEnableQuery>false</ExtEnableQuery>
+					<ExternalQuery />
+					<FieldMappings />
+					<FieldToColumnMappingList />
+					<QueryColumnOperatorMappingList />
+					<FieldType>DropDownList</FieldType>
+					<ForeColor>0</ForeColor>
+					<ForegroundColorString>#FF000000</ForegroundColorString>
+					<ID>7f4b06a6-eeaa-a127-193e-bdabc0fce51a</ID>
+					<IsRetired>false</IsRetired>
+					<LayoutLeft>1010</LayoutLeft>
+					<LayoutTop>200</LayoutTop>
+					<Name>Violation 1</Name>
+					<PageId>63751eca-6179-06ff-68bb-296b959bb08c</PageId>
+					<PrimaryKey />
+					<RenderAsReadOnly>false</RenderAsReadOnly>
+					<RenderValidationError>false</RenderValidationError>
+					<RowID />
+					<Section508Compliant>false</Section508Compliant>
+					<SectionID />
+					<SectionIndex>0</SectionIndex>
+					<TabOrder>0</TabOrder>
+					<UseColor>false</UseColor>
+					<ValidationErrorMessage />
+					<ValidationErrorPic>~\scripts\error.gif</ValidationErrorPic>
+					<Value />
+					<Version>3</Version>
+					<ZOrder>2</ZOrder>
+					<IsDataReportingColumn>true</IsDataReportingColumn>
+					<IsPrintableField>true</IsPrintableField>
+					<FormVersion>FormVersion4</FormVersion>
+					<AccessibilityLabel />
+					<IsValidatorShowing>false</IsValidatorShowing>
+					<ValidationType>NoValidation</ValidationType>
+					<CascadedParentListId>00000000-0000-0000-0000-000000000000</CascadedParentListId>
+					<CascadedParentListValue />
+					<CcID>00000000-0000-0000-0000-000000000000</CcID>
+					<ChildCascadedList />
+					<CqID>00000000-0000-0000-0000-000000000000</CqID>
+					<CqTextFieldName />
+					<CqValueFieldName />
+					<DropDownConnectionType>CustomQuery</DropDownConnectionType>
+					<EnableCascadedList>false</EnableCascadedList>
+					<EnableCustomQuery>false</EnableCustomQuery>
+					<EnableFormQuery>false</EnableFormQuery>
+					<EnableQListener>false</EnableQListener>
+					<FillCacheEnabled>true</FillCacheEnabled>
+					<FillCacheTimeout>0.5</FillCacheTimeout>
+					<FillConnectionString />
+					<FillQuery />
+					<FormQueryID />
+					<HasCascadedParentValue>false</HasCascadedParentValue>
+					<IsParentCascadeControl>false</IsParentCascadeControl>
+					<ItemList>
+						<string>NA</string>
+					</ItemList>
+					<OptionList />
+					<ReportingProperty>Text</ReportingProperty>
+					<ReportingPropertySetting>0</ReportingPropertySetting>
+					<WorkflowConditionsDataProperty>Value</WorkflowConditionsDataProperty>
+					<WorkflowConditionsDataPropertySetting>1</WorkflowConditionsDataPropertySetting>
+					<SelectedIndex>0</SelectedIndex>
+					<SelectedText />
+					<Width>80</Width>
+					<CascadeQueryColumnOperatorMappingList />
+				</BaseField>
+				<BaseField xsi:type="FieldContainer">
+					<BackgroundColor>0</BackgroundColor>
+					<BackgroundColorString>#00FFFFFF</BackgroundColorString>
+					<ConnectionString />
+					<Container>0</Container>
+					<ContainerId>00000000-0000-0000-0000-000000000000</ContainerId>
+					<ContainerLayoutTopOffset>0</ContainerLayoutTopOffset>
+					<ErrorMessage />
+					<ErrorPIC>~\scripts\error.gif</ErrorPIC>
+					<ExtCcID>00000000-0000-0000-0000-000000000000</ExtCcID>
+					<ExtCqID>00000000-0000-0000-0000-000000000000</ExtCqID>
+					<ExtEnableQuery>false</ExtEnableQuery>
+					<ExternalQuery />
+					<FieldMappings />
+					<FieldToColumnMappingList />
+					<QueryColumnOperatorMappingList />
+					<FieldType>Container</FieldType>
+					<ForeColor>0</ForeColor>
+					<ForegroundColorString>#FF000000</ForegroundColorString>
+					<ID>2cf23ef5-c6c1-6c4a-878b-d2fdb77e76fa</ID>
+					<IsRetired>false</IsRetired>
+					<LayoutLeft>0</LayoutLeft>
+					<LayoutTop>280</LayoutTop>
+					<Name>Container2</Name>
+					<PageId>63751eca-6179-06ff-68bb-296b959bb08c</PageId>
+					<PrimaryKey />
+					<RenderAsReadOnly>false</RenderAsReadOnly>
+					<RenderValidationError>false</RenderValidationError>
+					<RowID />
+					<Section508Compliant>false</Section508Compliant>
+					<SectionID />
+					<SectionIndex>0</SectionIndex>
+					<TabOrder>0</TabOrder>
+					<UseColor>false</UseColor>
+					<ValidationErrorMessage />
+					<ValidationErrorPic>~\scripts\error.gif</ValidationErrorPic>
+					<Value />
+					<Version>1</Version>
+					<ZOrder>1</ZOrder>
+					<IsDataReportingColumn>true</IsDataReportingColumn>
+					<IsPrintableField>true</IsPrintableField>
+					<FormVersion>FormVersion4</FormVersion>
+					<AccessibilityLabel />
+					<Index>6</Index>
+					<Width>800</Width>
+					<Height>90</Height>
+					<FieldList />
+					<FieldIdList />
+					<Style>0</Style>
+					<ResponsiveFlow>0</ResponsiveFlow>
+					<isCollapsible>false</isCollapsible>
+				</BaseField>
+				<BaseField xsi:type="FieldLabel">
+					<BackgroundColor>0</BackgroundColor>
+					<BackgroundColorString>#00FFFFFF</BackgroundColorString>
+					<ConnectionString />
+					<Container>0</Container>
+					<ContainerId>2cf23ef5-c6c1-6c4a-878b-d2fdb77e76fa</ContainerId>
+					<ContainerLayoutTopOffset>0</ContainerLayoutTopOffset>
+					<ErrorMessage />
+					<ErrorPIC>~\scripts\error.gif</ErrorPIC>
+					<ExtCcID>00000000-0000-0000-0000-000000000000</ExtCcID>
+					<ExtCqID>00000000-0000-0000-0000-000000000000</ExtCqID>
+					<ExtEnableQuery>false</ExtEnableQuery>
+					<ExternalQuery />
+					<FieldMappings />
+					<FieldToColumnMappingList />
+					<QueryColumnOperatorMappingList />
+					<FieldType>Label</FieldType>
+					<ForeColor>0</ForeColor>
+					<ForegroundColorString>#FF000000</ForegroundColorString>
+					<ID>9a410605-0c35-f86d-b473-79932e5e757a</ID>
+					<IsRetired>false</IsRetired>
+					<LayoutLeft>10</LayoutLeft>
+					<LayoutTop>290</LayoutTop>
+					<Name>Statue 2</Name>
+					<PageId>63751eca-6179-06ff-68bb-296b959bb08c</PageId>
+					<PrimaryKey />
+					<RenderAsReadOnly>false</RenderAsReadOnly>
+					<RenderValidationError>false</RenderValidationError>
+					<RowID />
+					<Section508Compliant>false</Section508Compliant>
+					<SectionID />
+					<SectionIndex>0</SectionIndex>
+					<TabOrder>0</TabOrder>
+					<UseColor>false</UseColor>
+					<ValidationErrorMessage />
+					<ValidationErrorPic>~\scripts\error.gif</ValidationErrorPic>
+					<Value />
+					<Version>1</Version>
+					<ZOrder>2</ZOrder>
+					<IsDataReportingColumn>true</IsDataReportingColumn>
+					<IsPrintableField>true</IsPrintableField>
+					<FormVersion>FormVersion4</FormVersion>
+					<AccessibilityLabel />
+					<Align>Left</Align>
+					<AssociatedControlID>00000000-0000-0000-0000-000000000000</AssociatedControlID>
+					<Bold>false</Bold>
+					<EnableQListener>false</EnableQListener>
+					<FontSize>8</FontSize>
+					<LabelWrap>false</LabelWrap>
+					<Text>Statute 2</Text>
+					<Width>92</Width>
+				</BaseField>
+				<BaseField xsi:type="FieldLabel">
+					<BackgroundColor>0</BackgroundColor>
+					<BackgroundColorString>#00FFFFFF</BackgroundColorString>
+					<ConnectionString />
+					<Container>0</Container>
+					<ContainerId>2cf23ef5-c6c1-6c4a-878b-d2fdb77e76fa</ContainerId>
+					<ContainerLayoutTopOffset>0</ContainerLayoutTopOffset>
+					<ErrorMessage />
+					<ErrorPIC>~\scripts\error.gif</ErrorPIC>
+					<ExtCcID>00000000-0000-0000-0000-000000000000</ExtCcID>
+					<ExtCqID>00000000-0000-0000-0000-000000000000</ExtCqID>
+					<ExtEnableQuery>false</ExtEnableQuery>
+					<ExternalQuery />
+					<FieldMappings />
+					<FieldToColumnMappingList />
+					<QueryColumnOperatorMappingList />
+					<FieldType>Label</FieldType>
+					<ForeColor>0</ForeColor>
+					<ForegroundColorString>#FF000000</ForegroundColorString>
+					<ID>96dcc2da-dec1-c5d1-424d-4d1204e93d3e</ID>
+					<IsRetired>false</IsRetired>
+					<LayoutLeft>200</LayoutLeft>
+					<LayoutTop>290</LayoutTop>
+					<Name>Description 2</Name>
+					<PageId>63751eca-6179-06ff-68bb-296b959bb08c</PageId>
+					<PrimaryKey />
+					<RenderAsReadOnly>false</RenderAsReadOnly>
+					<RenderValidationError>false</RenderValidationError>
+					<RowID />
+					<Section508Compliant>false</Section508Compliant>
+					<SectionID />
+					<SectionIndex>0</SectionIndex>
+					<TabOrder>0</TabOrder>
+					<UseColor>false</UseColor>
+					<ValidationErrorMessage />
+					<ValidationErrorPic>~\scripts\error.gif</ValidationErrorPic>
+					<Value />
+					<Version>1</Version>
+					<ZOrder>2</ZOrder>
+					<IsDataReportingColumn>true</IsDataReportingColumn>
+					<IsPrintableField>true</IsPrintableField>
+					<FormVersion>FormVersion4</FormVersion>
+					<AccessibilityLabel />
+					<Align>Left</Align>
+					<AssociatedControlID>00000000-0000-0000-0000-000000000000</AssociatedControlID>
+					<Bold>false</Bold>
+					<EnableQListener>false</EnableQListener>
+					<FontSize>8</FontSize>
+					<LabelWrap>true</LabelWrap>
+					<Text>This is an example descriptions of a citation and any questions regarding the respective citation.</Text>
+					<Width>400</Width>
+				</BaseField>
+				<BaseField xsi:type="FieldDropDownList3">
+					<BackgroundColor>0</BackgroundColor>
+					<BackgroundColorString>#00FFFFFF</BackgroundColorString>
+					<ConnectionString />
+					<Container>0</Container>
+					<ContainerId>2cf23ef5-c6c1-6c4a-878b-d2fdb77e76fa</ContainerId>
+					<ContainerLayoutTopOffset>0</ContainerLayoutTopOffset>
+					<ErrorMessage />
+					<ErrorPIC>~\scripts\error.gif</ErrorPIC>
+					<ExtCcID>00000000-0000-0000-0000-000000000000</ExtCcID>
+					<ExtCqID>00000000-0000-0000-0000-000000000000</ExtCqID>
+					<ExtEnableQuery>false</ExtEnableQuery>
+					<ExternalQuery />
+					<FieldMappings />
+					<FieldToColumnMappingList />
+					<QueryColumnOperatorMappingList />
+					<FieldType>DropDownList</FieldType>
+					<ForeColor>0</ForeColor>
+					<ForegroundColorString>#FF000000</ForegroundColorString>
+					<ID>ef335fac-7421-dd14-04a7-9f5e512206e5</ID>
+					<IsRetired>false</IsRetired>
+					<LayoutLeft>610</LayoutLeft>
+					<LayoutTop>290</LayoutTop>
+					<Name>Result 2</Name>
+					<PageId>63751eca-6179-06ff-68bb-296b959bb08c</PageId>
+					<PrimaryKey />
+					<RenderAsReadOnly>false</RenderAsReadOnly>
+					<RenderValidationError>false</RenderValidationError>
+					<RowID />
+					<Section508Compliant>false</Section508Compliant>
+					<SectionID />
+					<SectionIndex>0</SectionIndex>
+					<TabOrder>0</TabOrder>
+					<UseColor>false</UseColor>
+					<ValidationErrorMessage />
+					<ValidationErrorPic>~\scripts\error.gif</ValidationErrorPic>
+					<Value />
+					<Version>3</Version>
+					<ZOrder>2</ZOrder>
+					<IsDataReportingColumn>true</IsDataReportingColumn>
+					<IsPrintableField>true</IsPrintableField>
+					<FormVersion>FormVersion4</FormVersion>
+					<AccessibilityLabel />
+					<IsValidatorShowing>false</IsValidatorShowing>
+					<ValidationType>NoValidation</ValidationType>
+					<CascadedParentListId>00000000-0000-0000-0000-000000000000</CascadedParentListId>
+					<CascadedParentListValue />
+					<CcID>00000000-0000-0000-0000-000000000000</CcID>
+					<ChildCascadedList />
+					<CqID>00000000-0000-0000-0000-000000000000</CqID>
+					<CqTextFieldName />
+					<CqValueFieldName />
+					<DropDownConnectionType>CustomQuery</DropDownConnectionType>
+					<EnableCascadedList>false</EnableCascadedList>
+					<EnableCustomQuery>false</EnableCustomQuery>
+					<EnableFormQuery>false</EnableFormQuery>
+					<EnableQListener>false</EnableQListener>
+					<FillCacheEnabled>true</FillCacheEnabled>
+					<FillCacheTimeout>0.5</FillCacheTimeout>
+					<FillConnectionString />
+					<FillQuery />
+					<FormQueryID />
+					<HasCascadedParentValue>false</HasCascadedParentValue>
+					<IsParentCascadeControl>false</IsParentCascadeControl>
+					<ItemList>
+						<string>NA</string>
+					</ItemList>
+					<OptionList />
+					<ReportingProperty>Text</ReportingProperty>
+					<ReportingPropertySetting>0</ReportingPropertySetting>
+					<WorkflowConditionsDataProperty>Value</WorkflowConditionsDataProperty>
+					<WorkflowConditionsDataPropertySetting>1</WorkflowConditionsDataPropertySetting>
+					<SelectedIndex>0</SelectedIndex>
+					<SelectedText />
+					<Width>80</Width>
+					<CascadeQueryColumnOperatorMappingList />
+				</BaseField>
+				<BaseField xsi:type="FieldTextArea3">
+					<BackgroundColor>0</BackgroundColor>
+					<BackgroundColorString>#FFFFFFFF</BackgroundColorString>
+					<ConnectionString />
+					<Container>0</Container>
+					<ContainerId>2cf23ef5-c6c1-6c4a-878b-d2fdb77e76fa</ContainerId>
+					<ContainerLayoutTopOffset>0</ContainerLayoutTopOffset>
+					<ErrorMessage />
+					<ErrorPIC>~\scripts\error.gif</ErrorPIC>
+					<ExtCcID>00000000-0000-0000-0000-000000000000</ExtCcID>
+					<ExtCqID>00000000-0000-0000-0000-000000000000</ExtCqID>
+					<ExtEnableQuery>false</ExtEnableQuery>
+					<ExternalQuery />
+					<FieldMappings />
+					<FieldToColumnMappingList />
+					<QueryColumnOperatorMappingList />
+					<FieldType>MultiLineTextbox</FieldType>
+					<ForeColor>0</ForeColor>
+					<ForegroundColorString>#FF000000</ForegroundColorString>
+					<ID>e33f7a47-344a-dfbe-97d5-f57243512693</ID>
+					<IsRetired>false</IsRetired>
+					<LayoutLeft>700</LayoutLeft>
+					<LayoutTop>290</LayoutTop>
+					<Name>Comments 2</Name>
+					<PageId>63751eca-6179-06ff-68bb-296b959bb08c</PageId>
+					<PrimaryKey />
+					<RenderAsReadOnly>false</RenderAsReadOnly>
+					<RenderValidationError>false</RenderValidationError>
+					<RowID />
+					<Section508Compliant>false</Section508Compliant>
+					<SectionID />
+					<SectionIndex>0</SectionIndex>
+					<TabOrder>0</TabOrder>
+					<UseColor>false</UseColor>
+					<ValidationErrorMessage />
+					<ValidationErrorPic>~\scripts\error.gif</ValidationErrorPic>
+					<Value />
+					<Version>3</Version>
+					<ZOrder>2</ZOrder>
+					<IsDataReportingColumn>true</IsDataReportingColumn>
+					<IsPrintableField>true</IsPrintableField>
+					<FormVersion>FormVersion4</FormVersion>
+					<AccessibilityLabel />
+					<IsValidatorShowing>false</IsValidatorShowing>
+					<ValidationType>NoValidation</ValidationType>
+					<EnableQListener>false</EnableQListener>
+					<Length>1000</Length>
+					<Rows>4</Rows>
+					<Text />
+					<FontSize>10</FontSize>
+					<Width>300</Width>
+					<Height>60</Height>
+					<RenderAsHtmlEditor>false</RenderAsHtmlEditor>
+				</BaseField>
+				<BaseField xsi:type="FieldDropDownList3">
+					<BackgroundColor>0</BackgroundColor>
+					<BackgroundColorString>#00FFFFFF</BackgroundColorString>
+					<ConnectionString />
+					<Container>0</Container>
+					<ContainerId>2cf23ef5-c6c1-6c4a-878b-d2fdb77e76fa</ContainerId>
+					<ContainerLayoutTopOffset>0</ContainerLayoutTopOffset>
+					<ErrorMessage />
+					<ErrorPIC>~\scripts\error.gif</ErrorPIC>
+					<ExtCcID>00000000-0000-0000-0000-000000000000</ExtCcID>
+					<ExtCqID>00000000-0000-0000-0000-000000000000</ExtCqID>
+					<ExtEnableQuery>false</ExtEnableQuery>
+					<ExternalQuery />
+					<FieldMappings />
+					<FieldToColumnMappingList />
+					<QueryColumnOperatorMappingList />
+					<FieldType>DropDownList</FieldType>
+					<ForeColor>0</ForeColor>
+					<ForegroundColorString>#FF000000</ForegroundColorString>
+					<ID>2a16688a-95c2-3b05-60fe-c363d3a8b615</ID>
+					<IsRetired>false</IsRetired>
+					<LayoutLeft>1010</LayoutLeft>
+					<LayoutTop>290</LayoutTop>
+					<Name>Violation 2</Name>
+					<PageId>63751eca-6179-06ff-68bb-296b959bb08c</PageId>
+					<PrimaryKey />
+					<RenderAsReadOnly>false</RenderAsReadOnly>
+					<RenderValidationError>false</RenderValidationError>
+					<RowID />
+					<Section508Compliant>false</Section508Compliant>
+					<SectionID />
+					<SectionIndex>0</SectionIndex>
+					<TabOrder>0</TabOrder>
+					<UseColor>false</UseColor>
+					<ValidationErrorMessage />
+					<ValidationErrorPic>~\scripts\error.gif</ValidationErrorPic>
+					<Value />
+					<Version>3</Version>
+					<ZOrder>3</ZOrder>
+					<IsDataReportingColumn>true</IsDataReportingColumn>
+					<IsPrintableField>true</IsPrintableField>
+					<FormVersion>FormVersion4</FormVersion>
+					<AccessibilityLabel />
+					<IsValidatorShowing>false</IsValidatorShowing>
+					<ValidationType>NoValidation</ValidationType>
+					<CascadedParentListId>00000000-0000-0000-0000-000000000000</CascadedParentListId>
+					<CascadedParentListValue />
+					<CcID>00000000-0000-0000-0000-000000000000</CcID>
+					<ChildCascadedList />
+					<CqID>00000000-0000-0000-0000-000000000000</CqID>
+					<CqTextFieldName />
+					<CqValueFieldName />
+					<DropDownConnectionType>CustomQuery</DropDownConnectionType>
+					<EnableCascadedList>false</EnableCascadedList>
+					<EnableCustomQuery>false</EnableCustomQuery>
+					<EnableFormQuery>false</EnableFormQuery>
+					<EnableQListener>false</EnableQListener>
+					<FillCacheEnabled>true</FillCacheEnabled>
+					<FillCacheTimeout>0.5</FillCacheTimeout>
+					<FillConnectionString />
+					<FillQuery />
+					<FormQueryID />
+					<HasCascadedParentValue>false</HasCascadedParentValue>
+					<IsParentCascadeControl>false</IsParentCascadeControl>
+					<ItemList>
+						<string>NA</string>
+					</ItemList>
+					<OptionList />
+					<ReportingProperty>Text</ReportingProperty>
+					<ReportingPropertySetting>0</ReportingPropertySetting>
+					<WorkflowConditionsDataProperty>Value</WorkflowConditionsDataProperty>
+					<WorkflowConditionsDataPropertySetting>1</WorkflowConditionsDataPropertySetting>
+					<SelectedIndex>0</SelectedIndex>
+					<SelectedText />
+					<Width>80</Width>
+					<CascadeQueryColumnOperatorMappingList />
+				</BaseField>
+			</FieldList>
+			<IsRetired>false</IsRetired>
+		</FormPage>
+	</FormPages>
+	<GroupsHolder>
+		<FormTemplateID>14ae7358-c108-eb11-a9bb-ff3b05d364b3</FormTemplateID>
+		<GroupCollection />
+		<HasBuiltinGroups>false</HasBuiltinGroups>
+	</GroupsHolder>
+	<TextboxFontSize>10</TextboxFontSize>
+	<PrintAreaWidthOption>0</PrintAreaWidthOption>
+	<PrintAreaWidth>1024</PrintAreaWidth>
+	<PdfPaperSize>1</PdfPaperSize>
+	<PdfPaperSizeWidth>0</PdfPaperSizeWidth>
+	<PdfPaperSizeHeight>0</PdfPaperSizeHeight>
+	<PdfTopMargin>0</PdfTopMargin>
+	<PdfRightMargin>0</PdfRightMargin>
+	<PdfBottomMargin>0</PdfBottomMargin>
+	<PdfLeftMargin>0</PdfLeftMargin>
+	<PdfPageOrientation>Portrait</PdfPageOrientation>
+	<AssimilateLatestFormTemplate>true</AssimilateLatestFormTemplate>
+	<FieldListSaveKey>00000000-0000-0000-0000-000000000000</FieldListSaveKey>
+	<UpdateDocumentRelationshipDocId>false</UpdateDocumentRelationshipDocId>
+	<FormTemplateType>FormTemplate</FormTemplateType>
+	<InheritedFormTemplateType>FormTemplate</InheritedFormTemplateType>
+	<InheritedFormTemplateId>00000000-0000-0000-0000-000000000000</InheritedFormTemplateId>
+	<InheritedFormTemplateRevisionId>00000000-0000-0000-0000-000000000000</InheritedFormTemplateRevisionId>
+	<SaveDateTime>2020-10-07T17:23:22Z</SaveDateTime>
+	<ScriptLibrary />
+	<ScriptAssignments />
+	<ImageControlImages />
+	<Groups />
+	<AllPagesRenderAsOne>false</AllPagesRenderAsOne>
+</FormEntity>
