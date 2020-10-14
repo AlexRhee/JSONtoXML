@@ -43,3 +43,26 @@ GUIDs
 -PageID's can be the same from form to form
 -FormTemplateID and FormTemplateCHID can initially be set with the GUIDS of other forms
     -On import, the IDs will automatically be changed by VV
+
+
+--------------
+Header colors
+--------------
+
+Green: rgba(121, 175, 109, 1)
+
+Grey (Alternate to the Green): rgba(190, 190, 190, 1)
+
+Grey Divider: rgba(173, 173, 173, 1)
+
+Light Grey (subheaders): rgba(225, 225, 225, 1)
+
+------------
+Header sizes
+------------
+
+Section header height: 40px
+
+Sub section header height: 60px
+
+Section header divider: 10px
